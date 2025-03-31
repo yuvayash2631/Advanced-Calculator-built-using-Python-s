@@ -12,31 +12,31 @@ as well as advanced features such as square root, exponentiation, and percentage
 
 ## Key Features:
 
-# 1.	Basic Operations:
+ 1.	Basic Operations:
 
 o	Addition, Subtraction, Multiplication, and Division: These basic arithmetic operations are supported by the calculator and can be performed using the corresponding buttons.
 
-# 2.	Square Root Function:
+ 2.	Square Root Function:
 
 o	The √ button allows the user to calculate the square root of any given number. It uses the Python math.sqrt() function to perform this operation.
 
-# 3.	Exponentiation (Power):
+ 3.	Exponentiation (Power):
 
 o	The ^ button handles exponentiation. The user can input a base and an exponent separated by the ^ symbol (e.g., 2^3), and the calculator will compute the result using Python's pow() function.
 
-# 4.	Percentage Calculation:
+ 4.	Percentage Calculation:
 
 o	The % button allows the user to calculate the percentage of a number (e.g., 50% of a number). This is handled by dividing the number by 100.
 
-# 5.	Error Handling:
+ 5.	Error Handling:
 
 o	The calculator uses try-except blocks to handle errors, ensuring that when an invalid operation is performed (like dividing by zero or invalid input), it doesn't crash. Instead, it displays "Error" on the screen.
 
-# 6.	Clear Functionality:
+ 6.	Clear Functionality:
 
 o	The C button clears the entry field, allowing the user to start fresh.
 
-# 7.	GUI Elements:
+ 7.	GUI Elements:
 
 o	Entry Box: A text field where the user can see the input and the result. It’s styled with a white background, black text, and a solid border.
 o	Buttons: All calculator buttons (numbers, operators, special functions) are styled with a light gray background and black text. The buttons are arranged in a grid layout for easy access.
